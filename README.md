@@ -12,5 +12,4 @@ My passion for programming is related to create incredible things and help peopl
 - Launch a real product using Next.js
 
 ### 📫&nbsp; How to reach me:
-- 👉🏼&nbsp; [Email](john.freitasau@gmail.com)
 - 👉🏼&nbsp; [LinkedIn](https://www.linkedin.com/in/john-freitas-368449191/)
