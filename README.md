@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**johnfreitasau/johnfreitasau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🖖🏼 &nbsp;Hi! I'm Full Stack Developer and currently working as Senior Systems Engineer at @Canon Oceania. 
 
-Here are some ideas to get you started:
+### ✨&nbsp; Seeking knowledge all the time:
+My learning is based on creating projects and contributing to the open source community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡&nbsp; Driven by shipping products that help people:  
+My passion for programming is related to create incredible things and help people, doesn't matter the technology stack.
+
+### 🔭&nbsp; Goals for 2021:
+- Improve my Next.js Knowledge
+- Launch a real product using Next.js
+
+### 📫&nbsp; How to reach me:
+- 👉🏼&nbsp; [Email](john.freitasau@gmail.com)
+- 👉🏼&nbsp; [LinkedIn](https://www.linkedin.com/in/john-freitas-368449191/)
