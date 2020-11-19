@@ -10,6 +10,7 @@ My passion for programming is related to create incredible things and help peopl
 ### 🔭&nbsp; Goals for 2021:
 - Improve my Next.js Knowledge
 - Launch a real product using Next.js
+- Improve my GraphQL Knowledge
 
 ### 📫&nbsp; How to reach me:
 - 👉🏼&nbsp; [LinkedIn](https://www.linkedin.com/in/john-freitas-368449191/)
