@@ -1,3 +1,7 @@
+# ⚡ John Freitas
+
+**SR Systems Engineer** [@Canon](https://www.canon.com.au/).
+
 #### Contributing with the open source community is being a rewarding way to learn, teach and build experience in just about any skill I can imagine. :sparkles: 
 
 
@@ -6,6 +10,7 @@ Canon - Senior Systems Engineer
 
 #### 📫&nbsp; How to reach me:
 [LinkedIn](https://www.linkedin.com/in/john-freitas-368449191/)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%23b1abc9?style=for-the-badge&logo=linkedin&logoColor=white)](https://au.linkedin.com/in/john-freitas-368449191)
 
 
 <p align="center">
