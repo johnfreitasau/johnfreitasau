@@ -14,7 +14,7 @@
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg" alt="JohnF" height="40" width="40" />
 <img align="center" src="https://simpleicons.org/icons/express.svg" alt="JohnF" height="40" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/graphql.svg" alt="JohnF" height="40" width="40" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/apollographql.svg" alt="JohnF" height="40" width="40" />&nbsp;&nbsp;&nbsp;
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/apollographql.svg" alt="JohnF" height="40" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/styled-components.svg" alt="JohnF" height="40" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg" alt="JohnF" height="40" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg" alt="JohnF" height="40" width="40" />
