@@ -1,6 +1,3 @@
-
-:hand: &nbsp;Hi there! My name is John. I'm Full Stack Software Developer and currently working as Senior Systems Engineer at Canon Oceania. 
-
 ### :raised_hands:&nbsp; Always learning something new and contributing with the open source community:
 
 Contributing with the open source community is being a rewarding way to learn, teach and build experience in just about any skill I can imagine. :sparkles: 
