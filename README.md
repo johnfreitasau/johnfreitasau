@@ -2,11 +2,10 @@
 
 ### 👨‍💻 SR Systems Engineer [@Canon](https://www.canon.com.au/).
 
-#### Contributing with the open source community is being a rewarding way to learn, teach and build experience in just about any skill I can imagine. :sparkles: 
+##### Contributing with the open source community is being a rewarding way to learn, teach and build experience in just about any skill I can imagine. :sparkles: 
 
 #### 📫&nbsp; How to reach me:
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%23b1abc9?style=for-the-badge&logo=linkedin&logoColor=white)](https://au.linkedin.com/in/john-freitas-368449191)
-
 
 <p align="center">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" alt="JohnF" height="40" width="40" />
@@ -28,9 +27,3 @@
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg" alt="JohnF" height="40" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="JohnF" height="40" width="40" />
 </center>
-
-
-
-
-
-
