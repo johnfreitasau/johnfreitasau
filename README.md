@@ -4,7 +4,7 @@
 
 ***Contributing with the open source community is being a rewarding way to learn, teach and build experience in just about any skill I can imagine.*** :sparkles: 
 
- 📫&nbsp; **How to reach me:**
+📫&nbsp; **How to reach me:**<br><br>
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%23b1abc9?style=for-the-badge&logo=linkedin&logoColor=white)](https://au.linkedin.com/in/john-freitas-368449191)
 
 <p align="center">
