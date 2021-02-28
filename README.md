@@ -1,6 +1,6 @@
 # <img align="center" src="./jf-logo.png" alt="JohnF" height="40" width="40" /> John Freitas
 
-👨‍💻 **SR Systems Engineer at** [@Canon](https://www.canon.com.au/).
+👨‍💻 **I'm currently as SR Systems Engineer for** [@Canon](https://www.canon.com.au/).
 
 ***Contributing with the open source community is being a rewarding way to learn, teach and build experience in just about any skill I can imagine.*** :sparkles: 
 
