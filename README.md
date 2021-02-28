@@ -1,2 +1,1 @@
-
-### 👨‍💻 SR Systems Engineer [@Canon](https://www.canon.com.au/).
+SR Systems Engineer [@Canon](https://www.canon.com.au/).
