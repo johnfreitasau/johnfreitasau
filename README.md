@@ -1,10 +1,10 @@
 # <img align="center" src="./jf-logo.png" alt="JohnF" height="40" width="40" /> John Freitas
 
-👨‍💻 **SR Systems Engineer [@Canon]**(https://www.canon.com.au/).
+👨‍💻 **SR Systems Engineer at** [@Canon](https://www.canon.com.au/).
 
-##### Contributing with the open source community is being a rewarding way to learn, teach and build experience in just about any skill I can imagine. :sparkles: 
+***Contributing with the open source community is being a rewarding way to learn, teach and build experience in just about any skill I can imagine.*** :sparkles: 
 
-#### 📫&nbsp; How to reach me:
+ 📫&nbsp; **How to reach me:**
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%23b1abc9?style=for-the-badge&logo=linkedin&logoColor=white)](https://au.linkedin.com/in/john-freitas-368449191)
 
 <p align="center">
