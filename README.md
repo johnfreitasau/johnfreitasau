@@ -30,25 +30,6 @@
     />
   </a>
 
-  <a href="https://graphql.org" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
-      alt="graphql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://graphql.org" target="_blank">
-    <img
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/apollographql.svg"
-      alt="graphql"
-      width="40"
-      height="40"
-    />
-  </a>
-
-
-
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
@@ -108,6 +89,25 @@
       height="40"
     />
   </a>
+  
+  <a href="https://graphql.org" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
+      alt="graphql"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://graphql.org" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/apollographql.svg"
+      alt="graphql"
+      width="40"
+      height="40"
+    />
+  </a>
+  
   <a href="https://expressjs.com" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
