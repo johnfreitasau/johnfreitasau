@@ -4,14 +4,9 @@
 
 ***Contributing with the open source community is being a rewarding way to learn, teach and build experience in just about any skill I can imagine.*** :sparkles: 
 
-📫&nbsp; **How to reach me:**<br><br>
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%23b1abc9?style=for-the-badge&logo=linkedin&logoColor=white)](https://au.linkedin.com/in/john-freitas-368449191)
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  
-
    <a href="https://reactjs.org/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
@@ -165,6 +160,9 @@
   </a>
 </p>
 
+<h3 align="left">📫&nbsp;How to reach me:</h3>
+ 
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%23b1abc9?style=for-the-badge&logo=linkedin&logoColor=white)](https://au.linkedin.com/in/john-freitas-368449191)
 
 
 
