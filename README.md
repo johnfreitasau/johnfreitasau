@@ -165,6 +165,6 @@
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%23b1abc9?style=for-the-badge&logo=linkedin&logoColor=white)](https://au.linkedin.com/in/john-freitas-368449191)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnfreitasau&show_icons=true&locale=en&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="john freitas" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnfreitasau&show_icons=true&locale=en&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="john freitas" /></p><br />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnfreitasau&show_icons=true&locale=en&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="john freitas" /></p>
