@@ -5,7 +5,7 @@
 ***Contributing with the open source community is being a rewarding way to learn, teach and build experience in just about any skill I can imagine.*** :sparkles: 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠&nbsp;Languages and Tools:</h3>
 <p align="left">
    <a href="https://reactjs.org/" target="_blank">
     <img
