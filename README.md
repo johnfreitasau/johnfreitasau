@@ -12,7 +12,7 @@
 <p align="left">
   
 
-   <a href="https://reactnative.dev/" target="_blank">
+   <a href="https://reactjs.org/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
       alt="reactnative"
@@ -21,10 +21,10 @@
     />
   </a>
 
-   <a href="https://reactnative.dev/" target="_blank">
+   <a href="https://nextjs.org/" target="_blank">
     <img
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/next-dot-js.svg"
-      alt="reactnative"
+      alt="nextjs"
       width="40"
       height="40"
     />
@@ -38,10 +38,7 @@
       height="40"
     />
   </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-  >
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
@@ -81,10 +78,10 @@
       height="40"
     />
   </a>
-    <a href="https://sass-lang.com" target="_blank">
+    <a href="https://styled-components.com/" target="_blank">
     <img
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/styled-components.svg"
-      alt="sass"
+      alt="Styled-components"
       width="40"
       height="40"
     />
@@ -99,7 +96,7 @@
     />
   </a>
 
-  <a href="https://graphql.org" target="_blank">
+  <a href="https://www.apollographql.com/" target="_blank">
     <img
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/apollographql.svg"
       alt="graphql"
@@ -126,10 +123,10 @@
     />
   </a>
 
-  <a href="https://www.typescriptlang.org/" target="_blank">
+  <a href="https://www.postgresql.org/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
-      alt="typescript"
+      alt="postgresql"
       width="40"
       height="40"
     />
@@ -142,26 +139,26 @@
       height="40"
     />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
+  <a href="https://www.mysql.com/" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"
-      alt="typescript"
+      alt="mysql"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
+  <a href="https://www.microsoft.com/en-au/sql-server/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
-      alt="typescript"
+      alt="microsoft sql server"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
+  <a href="https://aws.amazon.com/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"
-      alt="typescript"
+      alt="aws"
       width="40"
       height="40"
     />
