@@ -175,5 +175,5 @@
 
 <h3 align="left">📫&nbsp;How to reach me:</h3>
  
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%23b1abc9?style=for-the-badge&logo=linkedin&logoColor=white)](https://au.linkedin.com/in/john-freitas-368449191)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2322272e?style=for-the-badge&logo=linkedin&logoColor=white)](https://au.linkedin.com/in/john-freitas-368449191)
 
