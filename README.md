@@ -160,7 +160,7 @@
 </p>
 
 
-<h3 align="left">🔬&nbsp;I’m currently exploring:</h3>Architecture designed Jamstack
+<h3 align="left">🔬&nbsp;I’m currently exploring:</h3>Architecture Jamstack
 <img
    src="https://d33wubrfki0l68.cloudfront.net/21c2e938a6a0468a8583b905f1156521c456f79c/2612d/img/logo/svg/jamstack_logo_darkbg.svg"
    alt="aws"
