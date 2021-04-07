@@ -159,6 +159,15 @@
   </a>
 </p>
 
+
+<h3 align="left">🔬&nbsp;I’m currently exploring:</h3>Architecture designed Jamstack
+<img
+   src="https://d33wubrfki0l68.cloudfront.net/21c2e938a6a0468a8583b905f1156521c456f79c/2612d/img/logo/svg/jamstack_logo_darkbg.svg"
+   alt="aws"
+   width="150"
+   alt="Jamstack image: Jamstack_Logo_DarkBG"
+ />
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnfreitasau&show_icons=true&locale=en&layout=compact&theme=radical" alt="john freitas" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnfreitasau&show_icons=true&locale=en&theme=radical" alt="john freitas" /></p>
