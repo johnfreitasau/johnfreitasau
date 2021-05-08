@@ -167,13 +167,15 @@
    width="150"
    alt="Jamstack image: Jamstack_Logo_DarkBG"
  />
+ 
+ <h3 align="left">📫&nbsp;How to reach me:</h3>
+ 
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%23316dca?style=for-the-badge&logo=linkedin&logoColor=white)](https://au.linkedin.com/in/john-freitas-368449191)
+
+ 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnfreitasau&show_icons=true&locale=en&layout=compact&theme=radical" alt="john freitas" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnfreitasau&show_icons=true&locale=en&theme=radical" alt="john freitas" /></p>
 
-
-<h3 align="left">📫&nbsp;How to reach me:</h3>
- 
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%23316dca?style=for-the-badge&logo=linkedin&logoColor=white)](https://au.linkedin.com/in/john-freitas-368449191)
 
